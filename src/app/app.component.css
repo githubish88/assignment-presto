@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+}
+.content {
+    margin: auto;
+}
+a {
+    text-decoration: none;
+    color: dodgerblue;
+}
+a:nth-child(2n){
+    float: right;
+}
+.program-start {
+    margin-top: 5rem;
+}
